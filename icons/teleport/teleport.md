@@ -1,3 +1,12 @@
+# Preview
+
+In:
+![Teleport In 1](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-1.svg "Teleport In 1")
+
+Out:
+![Teleport Out 1](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-Out-1.svg "Teleport Out 1")
+
+
 # Direct Links
 
 ## Teleport In
