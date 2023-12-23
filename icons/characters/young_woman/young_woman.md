@@ -43,3 +43,7 @@
 [Young Woman - Poor 8](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/young_woman/young_woman_poor_00008.png)  
 [Young Woman - Poor 9](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/young_woman/young_woman_poor_00009.png)  
 [Young Woman - Poor 10](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/young_woman/young_woman_poor_00010.png)  
+[Young Woman - Poor 11](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/young_woman/young_woman_poor_00011.png)  
+[Young Woman - Poor 12](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/young_woman/young_woman_poor_00012.png)  
+[Young Woman - Poor 13](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/young_woman/young_woman_poor_00013.png)  
+[Young Woman - Poor 14](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/young_woman/young_woman_poor_00014.png)  
