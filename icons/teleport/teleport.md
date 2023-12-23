@@ -1,15 +1,17 @@
 # Preview
 
 In:
-![Teleport In 1](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-1.svg "Teleport In 1")
+
+<img src="https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-1.svg" alt="Teleport In 1" width="200"/>
 
 Out:
-![Teleport Out 1](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-Out-1.svg "Teleport Out 1")
 
+<img src="https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-Out-1.svg" alt="Teleport In 1" width="200"/>
 
 # Direct Links
 
 ## Teleport In
+
 [Teleport In 1](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-1.svg)  
 [Teleport In 2](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-2.svg)  
 [Teleport In 3](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-3.svg)  
@@ -19,7 +21,7 @@ Out:
 [Teleport In 7](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-7.svg)  
 [Teleport In 8](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-8.svg)  
 [Teleport In 9](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-9.svg)  
-[Teleport In 10](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-10.svg)  
+[Teleport In 10](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-In-10.svg)
 
 ## Teleport Out
 
@@ -32,4 +34,4 @@ Out:
 [Teleport Out 7](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-Out-7.svg)  
 [Teleport Out 8](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-Out-8.svg)  
 [Teleport Out 9](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-Out-9.svg)  
-[Teleport Out 10](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-Out-10.svg)  
+[Teleport Out 10](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/teleport/Teleport-Out-10.svg)
