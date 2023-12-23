@@ -6,8 +6,10 @@ Heroquest-related items repo
 
 ### Characters
 
-[Old Man](/icons/characters/old_man/old_man.md)
+[Old Man](/icons/characters/old_man/old_man.md)  
+[Mage Miragore](/icons/characters/mage_miragore/mage_miragore.md)  
+[Young Woman](/icons/characters/young_woman/young_woman.md)  
 
 ### Other
 
-[Teleport](/icons/teleport/teleport.md)
+[Teleport](/icons/teleport/teleport.md)  
