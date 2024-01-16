@@ -24,5 +24,5 @@
 [Old Man 14](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00014.png) - Solemn/Expressionless (with lamp) 
 [Old Man 15](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00015.png) - Solemn/Expressionless (with lamp) (Simple)  
 [Old Man 16](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00016.png) - Serious/Displeased/Monk (with lamp)  
-[Old Man 17](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00017.png) - Vacant/Enchanted (with lamp)  
+[Old Man 17](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00017.png) - Vacant/Under enchantment (with lamp)  
 [Old Man 18](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00018.png) - Grumpy/In a suit (with lamp) (arty)
