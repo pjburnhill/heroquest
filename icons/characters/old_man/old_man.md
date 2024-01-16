@@ -1,10 +1,13 @@
 # Preview
 
-<img src="https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00002.png" alt="Old Man 1" width="200"/>
+<img src="https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00002.png" alt="Old Man 1" width="200"/>  
+Solemn
 
-<img src="https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00005.png" alt="Old Man 1" width="200"/>
+<img src="https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00005.png" alt="Old Man 1" width="200"/>  
+Happy/Old
 
-<img src="https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00017.png" alt="Old Man 1" width="200"/>
+<img src="https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00017.png" alt="Old Man 1" width="200"/>  
+Vacant/Under enchantment (with lamp)
 
 # Direct Links
 
@@ -12,7 +15,7 @@
 [Old Man 2](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00002.png) - Solemn  
 [Old Man 3](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00003.png) - Grumpy  
 [Old Man 4](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00004.png) - Crazy/Deranged  
-[Old Man 5](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00005.png) - Happy  
+[Old Man 5](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00005.png) - Happy/Old  
 [Old Man 6](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00006.png) - Sad  
 [Old Man 7](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00007.png) - Happy/Forgetful (with lamp)  
 [Old Man 8](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00008.png) - Dopey (with lamp)  
