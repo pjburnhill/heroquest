@@ -9,6 +9,10 @@ Happy/Old
 <img src="https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00017.png" alt="Old Man 1" width="200"/>  
 Vacant/Under enchantment (with lamp)
 
+> [!NOTE]
+> Each image includes the prompt which was used to generate the image in DALL-E 2 in its "parameters" metadata value - similar to how Stable Diffusion saves the prompt data. You can read the metadata using tools like [https://www.metadata2go.com/](https://www.metadata2go.com/).  
+
+
 # Direct Links
 
 [Old Man 1](https://cdn.jsdelivr.net/gh/pjburnhill/heroquest@main/icons/characters/old_man/old_man_00001.png) - Friendly/Sad  
